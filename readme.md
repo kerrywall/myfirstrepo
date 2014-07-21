@@ -10,7 +10,7 @@ This is the readme for my first repo. I'm learning how to use Markdown. Yeeeeahh
 2. It's fun.
 
 |It's    |a    |table
-|-------------------|
+|--------|:---:|---:|
 |feels a |littl|e   |
 |like 199|9 up |in  |
 |here    |     |yo  |
